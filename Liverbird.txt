@@ -1,0 +1,5 @@
+Player{id='001', name='J.Henderson', weight='75Kg', height='1m85', nationality='England', birthday='17-06-1990', location='CDM', goal=50, assist=100, battle=150, wage=200.0}
+Player{id='002', name='V.Van Dijk', weight='80Kg', height='1m95', nationality='Netherlands', birthday='08-07-1991', location='CB', goal=100, assist=200, battle=150, wage=220.0}
+Player{id='003', name='M.Salah', weight='70Kg', height='1m80', nationality='Egypt', birthday='15-06-1992', location='RW', goal=999, assist=200, battle=150, wage=210.0}
+Player{id='004', name='Thiago', weight='68Kg', height='1m69', nationality='Spain', birthday='11-04-1991', location='CAM', goal=100, assist=500, battle=150, wage=180.0}
+Player{id='005', name='Alison', weight='78Kg', height='1m90', nationality='Brazil', birthday='02-10-1992', location='GK', goal=1, assist=0, battle=150, wage=200.0}
